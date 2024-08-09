@@ -1,7 +1,7 @@
 # Base configs
 baseurl: "http://photography.chipoglesby.com/others/"
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
+image_fulls_loc: "/others/images/fulls"
+image_thumbs_loc: "/others/images/thumbs"
 google_analytics: "UA-54516992-1"
 
 # UI configs
